@@ -1,0 +1,3 @@
+Run the Java Program as:
+
+java Converter "XSL_FILENAME" "INPUT_XML_FILE" "OUTPUT_XML_OR_HTML_FILE"
